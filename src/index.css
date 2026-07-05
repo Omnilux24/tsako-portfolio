@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+body {
+  background-color: #1c1917; /* Default fallback background */
+  color: #d6d3d1;            /* Default fallback text color (stone-300) */
+  font-family: system-ui, -apple-system, sans-serif;
+}
